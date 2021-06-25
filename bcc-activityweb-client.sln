@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bcc.ActivityWeb.Client.Tests", "tests\Bcc.ActivityWeb.Client.Tests\Bcc.ActivityWeb.Client.Tests.csproj", "{2CDF1CB0-6C1A-42DF-8E77-65FC76FD8023}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bcc.Activityweb.Client.Tests", "tests\Bcc.Activityweb.Client.Tests\Bcc.Activityweb.Client.Tests.csproj", "{2CDF1CB0-6C1A-42DF-8E77-65FC76FD8023}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bcc.ActivityWeb.Client", "src\Bcc.ActivityWeb.Client\Bcc.ActivityWeb.Client.csproj", "{862AAF42-805A-4765-9A53-A9407B7421D8}"
 EndProject
@@ -14,6 +14,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3725A515-576E-44FC-90BC-9CA767D961A6}"
 	ProjectSection(SolutionItems) = preProject
 		LICENSE = LICENSE
+		.github\workflows\nuget-push.yml = .github\workflows\nuget-push.yml
 		README.md = README.md
 	EndProjectSection
 EndProject
