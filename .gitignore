@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/Capitech.Client/bin
+/src/Capitech.Client/obj
+/tests/Capitech.Client.Tests/bin
+/tests/Capitech.Client.Tests/obj
+/src/Bcc.ActivityWeb.Client/bin/Debug
+/src/Bcc.ActivityWeb.Client/obj
+/tests/Bcc.Activityweb.Client.Tests/obj
+/tests/Bcc.Activityweb.Client.Tests/bin/Debug/netcoreapp3.1
