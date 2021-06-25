@@ -1,2 +1,2 @@
-# bcc-activityweb-client
+# BCC Activity Web Client
 .Net Client for ActivityWeb API
