@@ -7,7 +7,6 @@ namespace Bcc.ActivityWeb.Client.Model
     [Serializable]
     public class CustomFieldInfo
     {
-        private string _label;
 
         private string _name;
 

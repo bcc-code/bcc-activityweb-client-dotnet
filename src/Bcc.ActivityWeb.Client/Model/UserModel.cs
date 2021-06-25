@@ -22,5 +22,6 @@ namespace Bcc.ActivityWeb.Client.Model
         
         public string LastnamePrefix { get; set; }
 
+
     }
 }
